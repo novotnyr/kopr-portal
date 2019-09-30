@@ -47,7 +47,7 @@ Prezentácia
 ### Od WSDL ku kódu
 
 *	[Od WSDL k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1988/od-wsdl-k-webovej-sluzbe-pitveme-a-tvorime-vlastne-wsdl)
-*	[Od WSDL k webovej službe cez Glassfish Metro](http://ics.upjs.sk/~novotnyr/wiki/Java/OdWSDLKWebovejSluzbe-Metro). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb.
+*	[Od WSDL k webovej službe cez Glassfish Metro](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-glassfish-metro/). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb.
 *	[Vytváranie webových služieb na základe WSDL s použitím Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/blog/1506/vytvaranie-webovych-sluzieb-na-zaklade-wsdl-s-pouzitim-eclipse-web-developer-tools)
 *	[Vytváranie WSDL s Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/2013/wsdl.htm). Screen cast s návodom na vytváranie WSDL.
 *	[Apache Axis -- tutoriál k webovým službám](http://ics.upjs.sk/~novotnyr/home/programovanie/java/axis-tutorial/axisTutorial.html). Obsahuje generovanie servera i klienta, ale z príkazového riadku. 
