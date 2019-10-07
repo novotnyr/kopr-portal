@@ -43,11 +43,11 @@ Prezentácia
 *	[Podpora webových služieb SOAP v Java 9 a novšej cez Metro](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/)
 *	[Podpora webových služieb v Java SE 6 a novšej](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8. 
 *	[Pythonovský klient k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1481/pysimplesoap-pythonovsky-klient-k-webovej-sluzbe-jax-ws-2-0-2013). Ako vybudovať Python klienta k JAX-WS 2.0 serveru
-	*	[`pysimplesoap`](http://code.google.com/p/pysimplesoap/). Python knižnica pre SOAP webservicy.
+	*	[`pysimplesoap`](http://code.google.com/p/pysimplesoap/). Python knižnica pre SOAP webservicy.
 
 ### Od WSDL ku kódu
 
-*	[Od WSDL k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1988/od-wsdl-k-webovej-sluzbe-pitveme-a-tvorime-vlastne-wsdl)
+*	[Od WSDL k webovej službe](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-tvorime-vlastne-wsdl/) – tvoríme vlastné WSDL. Tutoriál k tvorbe WSDL na zelenej lúke na príklade rezervácie lístkov do kina.
 *	[Od WSDL k webovej službe cez Glassfish Metro](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-glassfish-metro/). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb.
 *	[Vytváranie webových služieb na základe WSDL s použitím Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/blog/1506/vytvaranie-webovych-sluzieb-na-zaklade-wsdl-s-pouzitim-eclipse-web-developer-tools)
 *	[Vytváranie WSDL s Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/2013/wsdl.htm). Screen cast s návodom na vytváranie WSDL.
