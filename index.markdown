@@ -40,18 +40,17 @@ Prezentácia
 
 ### Od kódu k WSDL -- implementácia servera a klienta
 
-*	[Podpora webových služieb SOAP v Java 9 a novšej cez Metro](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/)
-*	[Podpora webových služieb v Java SE 6 a novšej](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8. 
-*	[Pythonovský klient k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1481/pysimplesoap-pythonovsky-klient-k-webovej-sluzbe-jax-ws-2-0-2013). Ako vybudovať Python klienta k JAX-WS 2.0 serveru
-	*	[`pysimplesoap`](http://code.google.com/p/pysimplesoap/). Python knižnica pre SOAP webservicy.
+*	[Podpora webových služieb SOAP v Java 9 a novšej cez Metro](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) (*sept. 2019*)
+*	[Podpora webových služieb v Java SE 6 a novšej](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8.  (*nov. 2014*)
+*	[Pythonovský klient k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1481/pysimplesoap-pythonovsky-klient-k-webovej-sluzbe-jax-ws-2-0-2013). Ako vybudovať Python klienta k JAX-WS 2.0 serveru (*nov. 2013*)
+	*	[`pysimplesoap`](https://github.com/pysimplesoap/pysimplesoap). Python knižnica pre SOAP webservicy (*júl 2018*)
 
 ### Od WSDL ku kódu
 
-*	[Od WSDL k webovej službe](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-tvorime-vlastne-wsdl/) – tvoríme vlastné WSDL. Tutoriál k tvorbe WSDL na zelenej lúke na príklade rezervácie lístkov do kina.
-*	[Od WSDL k webovej službe cez Glassfish Metro](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-glassfish-metro/). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb.
-*	[Vytváranie webových služieb na základe WSDL s použitím Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/blog/1506/vytvaranie-webovych-sluzieb-na-zaklade-wsdl-s-pouzitim-eclipse-web-developer-tools)
-*	[Vytváranie WSDL s Eclipse Web Developer Tools](http://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/2013/wsdl.htm). Screen cast s návodom na vytváranie WSDL.
-*	[Apache Axis -- tutoriál k webovým službám](http://ics.upjs.sk/~novotnyr/home/programovanie/java/axis-tutorial/axisTutorial.html). Obsahuje generovanie servera i klienta, ale z príkazového riadku. 
+*	[Od WSDL k webovej službe](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-tvorime-vlastne-wsdl/) – tvoríme vlastné WSDL. Tutoriál k tvorbe WSDL na zelenej lúke na príklade rezervácie lístkov do kina. (*okt. 2019*)
+*	[Vytváranie WSDL s Eclipse Web Developer Tools](https://novotnyr.github.io/scrolls/vytvaranie-wsdl-s-eclipse-web-developer-tools/). Screen cast + návod na vytváranie WSDL. (*okt. 2019*)
+*	[Od WSDL k webovej službe cez Glassfish Metro](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-glassfish-metro/). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb. (*2008*)
+*	[Apache Axis -- tutoriál k webovým službám](http://ics.upjs.sk/~novotnyr/home/programovanie/java/axis-tutorial/axisTutorial.html). Obsahuje generovanie servera i klienta, ale z príkazového riadku. (*2005*)
 
 Nástroje
 ---------
@@ -67,7 +66,7 @@ Následne získame možnosť vyrobiť nový WSDL súbor cez **New | Webservice |
 
 ### [Apache Axis 1.x](http://archive.apache.org/dist/ws/axis/1_4/)
 
-Knižnica pre generovanie a konzumovanie RPC/Encoded slúžieb.
+Knižnica pre generovanie a konzumovanie RPC/Encoded služieb. Hoci bol vývoj zastavený v roku 2006, ide o jedinú knižnicu v Jave, ktorá dokáže spracovávať služby SOAP v štýle `rpc/encoded`.
 	
 ### [php-wsdl-creator](https://code.google.com/archive/p/php-wsdl-creator/)
 PHP server pre RPC/encoded služby.
@@ -105,15 +104,23 @@ Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wo
 ------
 *	[Akka a vzdialené volanie aktorov pre otáčanie reťazcov](http://ics.upjs.sk/~novotnyr/blog/1568/akka-a-vzdialene-volanie-aktorov-pre-otacanie-retazcov)
 
+JavaScript a asynchrónne programovanie
+=====================
+
+Prezentácia
+-----------
+
+- [Slajdy k callbackom, promises, a `async`-`await`](slides/kopr-promises.pdf) v JavaScripte ES6/ECMAScript 2015. Pozri článok nižšie pre podrobný popis obsahu.
+
+Články
+------
+
+*	[Asynchrónne veci v JavaScripte pomocou callbackov, promises a `async`-`await`](https://novotnyr.github.io/scrolls/asynchronne-veci-v-javascripte-callback-promise-async-await/) (október 2019) — programovanie pomocou ES6/ECMAScript 2015.
+*	[Asynchrónne veci v JavaScripte cez Promises](http://ics.upjs.sk/~novotnyr/blog/1996/asynchronne-veci-v-javascripte-cez-promises) (december 2014) — použitie promises pomocou knižnice `q.js`. Alternatívne použitie pomocou `jQuery`. 
+*	[Demo s ukážkou Promises v JavaScripte](http://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/2014/promises-demo/) (december 2014)
+
 RMI
 ===
 
 *	[Slajdy](slides/kopr-rmi.pdf)
 *	[RMI - vzdialené volanie metód](http://ics.upjs.sk/~novotnyr/wiki/Java/RMI)
-
-
-JavaScript a Promises
-=====================
-
-*	[Asynchrónne veci v JavaScripte cez Promises](http://ics.upjs.sk/~novotnyr/blog/1996/asynchronne-veci-v-javascripte-cez-promises)
-*	[Demo s ukážkou Promises v JavaScripte](http://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/2014/promises-demo/)
