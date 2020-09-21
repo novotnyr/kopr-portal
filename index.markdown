@@ -57,14 +57,15 @@ Prezentácia
 Nástroje
 ---------
 
-### SoapUI
-[SoapUI](http://www.soapui.org/) je bezplatný nástroj na testovanie SOAP i REST API. Návod na používanie je v slajdoch.
-
 ### Eclipse
 
 Na vytváranie WSDL od podlahy použime *Eclipse* a pluginy. Doinštalujme pluginy pre JAX-WS: **Help | Install New Software**. Z combo boxu vyberme **All Available Sites**. V sekcii **Web, XML, Java EE and OSGi Enterprise Development** zvoľme **Eclipse Java Web Developer Tools** a **JAX-WS Tools**.
 
 Následne získame možnosť vyrobiť nový WSDL súbor cez **New | Webservice | WSDL File**.
+
+### SoapUI
+[SoapUI](http://www.soapui.org/) je bezplatný nástroj na testovanie SOAP i REST API. Návod na používanie je v slajdoch.
+
 
 ### [Apache Axis 1.x](http://archive.apache.org/dist/ws/axis/1_4/)
 
