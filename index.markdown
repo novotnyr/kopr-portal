@@ -34,13 +34,15 @@ Prezentácia
 -----------
 
 *	[Slajdy k SOAP Web Services](slides/kopr-soap-web-services.pdf)
+*	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](slides/soap-web-services-soapui-client-generation.pdf)
+
 
 Články
 ------
 
 ### Od kódu k WSDL -- implementácia servera a klienta
 
-*	[Podpora webových služieb SOAP v Java 9 a novšej cez Metro](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) (*sept. 2019*)
+*	[Podpora webových služieb SOAP v Java 9 a novšej cez Metro](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) (*sept. 2020*)
 *	[Podpora webových služieb v Java SE 6 a novšej](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8.  (*nov. 2014*)
 *	[Pythonovský klient k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1481/pysimplesoap-pythonovsky-klient-k-webovej-sluzbe-jax-ws-2-0-2013). Ako vybudovať Python klienta k JAX-WS 2.0 serveru (*nov. 2013*)
 	*	[`pysimplesoap`](https://github.com/pysimplesoap/pysimplesoap). Python knižnica pre SOAP webservicy (*júl 2018*)
