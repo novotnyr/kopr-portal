@@ -32,9 +32,9 @@ SOAP Web Services
 
 Prezentácia
 -----------
-
-*	[Slajdy k SOAP Web Services](slides/kopr-soap-web-services.pdf)
-*	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](slides/soap-web-services-soapui-client-generation.pdf)
+ 
+*	[Slajdy k SOAP Web Services](slides/kopr-soap-web-services.pdf) (*sept. 2020*)
+*	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](slides/soap-web-services-soapui-client-generation.pdf) (*sept. 2020*)
 
 
 Články
