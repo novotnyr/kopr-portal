@@ -32,7 +32,7 @@ SOAP Web Services
 
 Prezentácia
 -----------
- 
+
 *	[Slajdy k SOAP Web Services](slides/kopr-soap-web-services.pdf) (*sept. 2020*)
 *	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](slides/soap-web-services-soapui-client-generation.pdf) (*sept. 2020*)
 
@@ -106,6 +106,30 @@ Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wo
 Články
 ------
 *	[Akka a vzdialené volanie aktorov pre otáčanie reťazcov](http://ics.upjs.sk/~novotnyr/blog/1568/akka-a-vzdialene-volanie-aktorov-pre-otacanie-retazcov)
+
+Kafka – distribuovaná platforma pre správy a streaming
+========
+
+Prezentácia
+-----------
+
+- Slajdy k [Apache Kafka ako message broker](slides/kopr-kafka-2020.pdf)
+
+Video k prezentácií
+-------------------
+
+- [Video k prezentácii z roku 2020](https://web.microsoftstream.com/video/fd1682cf-a797-458c-a861-2461d5366668?list=studio), dostupné pre členov UPJŠ na MS Stream.
+
+Tutoriál
+--------
+
+- [Tutoriál ku Kafke s komentárom zdrojových kódov](materials/apache-kafka-tutorial.pdf) (PDF). Tutoriál využíva zdrojové kódy ukážkového projektu a stavia na videu.
+
+Zdrojové kódy
+-------------
+
+- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kafka-producer-consumer-demo) vrátane spúšťania Kafky cez Docker Compose
+
 
 JavaScript a asynchrónne programovanie
 =====================
