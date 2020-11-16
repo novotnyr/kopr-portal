@@ -1,23 +1,10 @@
-build: index.html
-.PHONY: build
+.PHONY: build public clean
 
-index.html: index.markdown
-	echo "Building HTML..."
-	@pandoc $< \
-		--read=markdown+ascii_identifiers \
-		--write=html5 \
-		--standalone \
-		--include-in-header=HEADER \
-		--include-before-body=BEFORE-BODY \
-		--number-sections \
-		--metadata=title:"UINF/KOPR -- REST, SOAP, aktorový model a promise" \
-		--output index.html
-
+build: 
+	zola build
 
 public: build
-	rsync -aP . novotnyr@ics.upjs.sk:/home/novotnyr/public_html/home/skola/konkurentne-programovanie/portal
-.PHONY: public
+	rsync -aP public/ novotnyr@ics.upjs.sk:/home/novotnyr/public_html/home/skola/konkurentne-programovanie/portal
 
 clean:
-	rm index.html index-sanitized.markdown
-.PHONY: clean
+	rm -rf public/* 2> /dev/null

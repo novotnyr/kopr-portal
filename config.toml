@@ -1,0 +1,9 @@
+base_url = "https://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/portal"
+title = "UINF/KOPR Konkurentné programovanie"
+compile_sass = true
+highlight_code = true
+build_search_index = true
+theme = "anpu-zola-theme"
+
+[extra]
+# Put all your custom variables here
