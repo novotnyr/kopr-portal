@@ -1,5 +1,7 @@
-.PHONY: build public clean
+.PHONY: build public clean serve
 
+serve:
+	zola serve
 build: 
 	zola build
 
