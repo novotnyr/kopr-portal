@@ -1,6 +1,7 @@
 +++
 title = "RabbitMQ"
 weight = 38
+date = 2020-11-17
 +++
 RabbitMQ je message broker podľa filozofie „smart pipes“ s integráciou pre mnohé jazyky a priamou podporou pre typické scenáre.
 <!-- more -->

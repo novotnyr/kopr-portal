@@ -1,6 +1,7 @@
 +++
 title = "Aktorový model a Akka"
 weight = 30
+date = 2020-11-17
 +++
 Aktorový model, čo stiera rozdiely medzi distribuovanými a paralelnými systémami implementovaný v technológii Akka na jazykoch Java alebo Scala.
 <!-- more -->

@@ -1,6 +1,7 @@
 +++
 title = "Kafka"
 weight = 40
+date = 2020-11-17
 +++
 Apache Kafka je distribuovaná platforma pre streaming dát, ktorá sa dá použiť ako message broker medzi komponentami.
 

@@ -2,6 +2,7 @@
 title = "RESTové architektúry"
 slug = "rest"
 weight = 20
+date = 2020-11-17
 +++
 Serverovské API založené na filozofii Representational State Transfer, kde manipulujeme entity reprezentované vo formáte JSON.
 <!-- more -->

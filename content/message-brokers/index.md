@@ -1,6 +1,7 @@
 +++
 title = "Message Brokers"
 weight = 35
+date = 2020-11-17
 +++
 Všeobecné informácie k message brokerom, princípy a filozofia
 

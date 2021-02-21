@@ -1,6 +1,7 @@
 +++
 title = "SOAP Web Services"
 weight = 10
+date = 2020-11-17
 +++
 SOAP Web Services založené na klient-server architektúre pomocou správ reprezentovaných typovanými XML dokumentami.
 <!-- more -->

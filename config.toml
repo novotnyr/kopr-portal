@@ -2,8 +2,8 @@ base_url = "https://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/p
 title = "UINF/KOPR Konkurentné programovanie"
 compile_sass = true
 highlight_code = true
-build_search_index = true
-theme = "anpu-zola-theme"
+build_search_index = false
+theme = "Zulma"
 
 [extra]
-# Put all your custom variables here
+zulma_title = "UINF/KOPR Konkurentné programovanie"
