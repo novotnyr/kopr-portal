@@ -25,7 +25,7 @@ Prezentácia
 	*	[verzia pre čistý Spring Framework](http://ics.upjs.sk/~novotnyr/blog/1876/mala-cokoladova-spring-rest-aplikacia-list-martinovi).
 *	RESTová aplikácia s frameworkom Restlet
 	*	[Jedno restované API, pán hlavný!](http://ics.upjs.sk/~novotnyr/blog/772/jedno-restovane-api-a-la-restlet-pan-hlavny). Verzia pre Restlet.
-	*	[Ešte jedno restované API, pán hlavný!](http://ics.upjs.sk/~novotnyr/blog/786/este-jedno-restovane-api-a-la-restlet-pan-hlavny-viacero-resources-a-klienti) -- viacero resources a budovanie klientov. Verzia pre Restlet
+	*	[Ešte jedno restované API, pán hlavný!](http://ics.upjs.sk/~novotnyr/blog/786/este-jedno-restovane-api-a-la-restlet-pan-hlavny-viacero-resources-a-klienti) — viacero resources a budovanie klientov. Verzia pre Restlet
 
 
 Nástroje

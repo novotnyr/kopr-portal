@@ -1,7 +1,7 @@
 +++
 title = "SOAP Web Services"
 weight = 10
-date = 2020-11-17
+date = 2021-12-29
 +++
 SOAP Web Services založené na klient-server architektúre pomocou správ reprezentovaných typovanými XML dokumentami.
 <!-- more -->
@@ -17,7 +17,7 @@ Prezentácia
 Články
 ------
 
-### Od kódu k WSDL -- implementácia servera a klienta
+### Od kódu k WSDL — implementácia servera a klienta
 
 *	[Podpora webových služieb SOAP](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) pre Javu 9-11 cez Metro (*sept. 2020*)
 *	[Podpora webových služieb SOAP](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8.  (*nov. 2014*)
@@ -26,11 +26,11 @@ Prezentácia
 
 ### Od WSDL ku kódu
 
-*	[Od WSDL k webovej službe](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-tvorime-vlastne-wsdl/) – tvoríme vlastné WSDL. Tutoriál k tvorbe WSDL na zelenej lúke na príklade rezervácie lístkov do kina. (*okt. 2019*)
-* [OD WSDL k webovej službe -- generovanie servera pomocou Metro na Java 11](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-metro-pre-java-11/) -- tutoriál ku generovaniu zdrojových kódov servera a jeho implementácie pre Javu 11 s použitím Maven pluginu MojoHaus JAX-WS. (*dec. 2021*)
+*	[Od WSDL k webovej službe](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-tvorime-vlastne-wsdl/) — tvoríme vlastné WSDL. Tutoriál k tvorbe WSDL na zelenej lúke na príklade rezervácie lístkov do kina. (*okt. 2019*)
+*	[OD WSDL k webovej službe — generovanie servera pomocou Metro na Java 11](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-metro-pre-java-11/) — tutoriál ku generovaniu zdrojových kódov servera a jeho implementácie pre Javu 11 s použitím Maven pluginu MojoHaus JAX-WS. (*dec. 2021*)
 *	[Vytváranie WSDL s Eclipse Web Developer Tools](https://novotnyr.github.io/scrolls/vytvaranie-wsdl-s-eclipse-web-developer-tools/). Screen cast + návod na vytváranie WSDL. (*okt. 2019*)
 *	[Od WSDL k webovej službe cez Glassfish Metro](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-glassfish-metro/). Starší článok s alternatívnym prístupom k budovaniu SOAP služieb. (*2008*)
-*	[Apache Axis -- tutoriál k webovým službám](http://ics.upjs.sk/~novotnyr/home/programovanie/java/axis-tutorial/axisTutorial.html). Obsahuje generovanie servera i klienta, ale z príkazového riadku. (*2005*)
+*	[Apache Axis — tutoriál k webovým službám](http://ics.upjs.sk/~novotnyr/home/programovanie/java/axis-tutorial/axisTutorial.html). Obsahuje generovanie servera i klienta, ale z príkazového riadku. (*2005*)
 
 Nástroje
 ---------

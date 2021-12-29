@@ -53,7 +53,7 @@ Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wo
 
 *	branch `master` pre ukážku s deathwatch
 *	branch [`message-tracking`](https://github.com/novotnyr/akka-wordfrequencies/tree/message-tracking) pre ukážku s počítaním správ
-*	tag [`brownfield`](https://github.com/novotnyr/akka-wordfrequencies/tree/brownfield) -- iniciálny kód pre cvičenie
+*	tag [`brownfield`](https://github.com/novotnyr/akka-wordfrequencies/tree/brownfield) — iniciálny kód pre cvičenie
 
 ## Články
 
