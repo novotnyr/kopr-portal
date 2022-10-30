@@ -10,7 +10,7 @@ SOAP Web Services založené na klient-server architektúre pomocou správ repre
 Prezentácia
 -----------
 
-*	[Slajdy k SOAP Web Services](kopr-soap-web-services.pdf) (*sept. 2020*)
+*	[Slajdy k SOAP Web Services](kopr-soap-web-services.pdf) (*október 2022*)
 *	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](soap-web-services-soapui-client-generation.pdf) (*sept. 2020*)
 
 
