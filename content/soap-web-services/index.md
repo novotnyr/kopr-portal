@@ -19,7 +19,8 @@ Prezentácia
 
 ### Od kódu k WSDL — implementácia servera a klienta
 
-*	[Podpora webových služieb SOAP](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) pre Javu 9-11 cez Metro (*sept. 2020*)
+*	[Podpora webových služieb SOAP](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) pre Javu 11-17 cez Metro (*okt. 2022*)
+*	[Podpora webových služieb SOAP](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/) pre Javu 9-11 cez Metro a MojoHaus JAX-WS Maven plugin (*sept. 2020*)
 *	[Podpora webových služieb SOAP](http://ics.upjs.sk/~novotnyr/blog/1973/podpora-webovych-sluzieb-v-java-se-6-a-novsej) pre Javu 6–8.  (*nov. 2014*)
 *	[Pythonovský klient k webovej službe](http://ics.upjs.sk/~novotnyr/blog/1481/pysimplesoap-pythonovsky-klient-k-webovej-sluzbe-jax-ws-2-0-2013). Ako vybudovať Python klienta k JAX-WS 2.0 serveru (*nov. 2013*)
 	*	[`pysimplesoap`](https://github.com/pysimplesoap/pysimplesoap). Python knižnica pre SOAP webservicy (*júl 2018*)
