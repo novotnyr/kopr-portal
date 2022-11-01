@@ -1,7 +1,7 @@
 +++
 title = "SOAP Web Services"
 weight = 10
-date = 2022-10-30
+date = 2022-11-01
 +++
 SOAP Web Services založené na klient-server architektúre pomocou správ reprezentovaných typovanými XML dokumentami.
 <!-- more -->
