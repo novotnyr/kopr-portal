@@ -12,6 +12,8 @@ Prezentácia
 
 *	[Slajdy k SOAP Web Services](kopr-soap-web-services.pdf) (*október 2022*)
 *	[SOAP: Generovanie klientského kódu pomocou SoapUI a JAX-WS 2.0 v Jave 6, 7 a 8](soap-web-services-soapui-client-generation.pdf) (*sept. 2020*)
+*  [SOAP: Podpora pre RPC/encoded v Java 6, Axis, a jazyky PHP či Python](kopr-soap-web-services-php-python-java6.pdf) (*nov. 2013*)
+*  [SOAP: Štýly a kódovania: Document/Literal, RPC/Encoded a iné](kopr-soap-styles-encodings.pdf) (*okt. 2022*)
 
 
 Články
