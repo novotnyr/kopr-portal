@@ -1,16 +1,39 @@
 +++
 title = "Aktorový model a Akka"
 weight = 30
-date = 2020-11-17
+date = 2022-11-06
 +++
 Aktorový model, čo stiera rozdiely medzi distribuovanými a paralelnými systémami implementovaný v technológii Akka na jazykoch Java alebo Scala.
 <!-- more -->
 
-# Typed Akka
+# Typed Akka a Java 17
 
 ## Prezentácia
 
-*	[Slajdy k aktorovému modelu a Akka Typed](kopr-actors-akka-typed.pdf). Príklady sú v jazyku Java, s použitím štýlu Object-Oriented, pre verziu Akka 2.6 (*október 2020*)
+*	[Slajdy k aktorovému modelu a Akka Typed](kopr-actors-akka-typed-2022.pdf). Príklady sú v jazyku Java, s použitím štýlu Object-Oriented, pre verziu Akka 2.6 a Java 17 (*november 2022*)
+
+## Videá
+Videá sú dostupné cez Microsoft Stream v sieti UPJŠ. (*november 2022*)
+
+### Úvod
+Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
+
+- [Video 1 / 2 (1h 30m)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EfKM420n6ShEnbyn9nA1cpEBBD9H0xRgm8aGTAyWEr4zxQ?e=nnv6hX
+  ). Úvod do aktorového modelu. Implementácia aktorov. Komunikácia medzi aktormi. Ask pattern. Rozdeľovanie roboty medzi aktorov. Message Adapter pre dodržanie typov správ. (*november 2022*)
+- [Video 2 / 2 (1h 30m)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EXsszRY3WnlKkL6a-fZrsGoBOpHZHAFF52AfLNxf9FGuWw?e=cMfTe9)
+  Komunikácia od replík ku koordinátorovi. Failover: zlyhávanie aktorov a supervízia. Spawnovanie viacerých aktorov pre škálovanie. Logovanie a debugging. (*november 2022*)
+
+- [Zdrojové kódy k videám](https://github.com/novotnyr/akka-wordfreq-typed-2022-pre/tree/master) -- repozitár na GitHub.com (*november 2022*)
+
+## Kód
+
+- [Celý ukážkový projekt vrátane histórie komitov](https://github.com/novotnyr/akka-wordfrequencies-2022/commits/master) pre Akka Typed 2.6, Java 17, OOP prístup. Obsahuje podporu pre logovanie a konfiguráciu a implementáciu Poison Pill. (*november 2022*)
+
+# Typed Akka a Java 8 (2020) 
+
+## Prezentácia
+
+*	[Slajdy k aktorovému modelu a Akka Typed](kopr-actors-akka-typed-2020.pdf). Príklady sú v jazyku Java, s použitím štýlu Object-Oriented, pre verziu Akka 2.6 (*október 2020*)
 
 ## Videá
 Videá sú dostupné cez Microsoft Stream v sieti UPJŠ. (*október 2020*)
@@ -28,14 +51,15 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 ## Kód
 
 - [GitHub repo `novotnyr/akka-wordfreq-typed-demo`](https://github.com/novotnyr/akka-wordfreq-typed-demo) s ukážkami kódu podľa prvých dvoch videí.
-- [GitHub repo `novotnyr/akka-iot-demo](https://github.com/novotnyr/akka-iot-demo) s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
 
-# Klasická Akka – Akka Classic
+    Používa sa Akka 2.6 Typed, Java 8, OOP štýl 
+- [GitHub repo `novotnyr/akka-iot-demo`](https://github.com/novotnyr/akka-iot-demo) s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
+
+# Klasická Akka – Akka Classic/Untyped (2018)
 
 ## Prezentácia
 
-*	[Slajdy k Akka a aktorovému modelu](kopr-actors-akka.pdf) (*jeseň 2018*)
-
+*	[Slajdy k Akka a aktorovému modelu](kopr-actors-akka-2018.pdf) (*jeseň 2018*)
 
 ## Kód
 
@@ -48,6 +72,8 @@ Implementovaný je pre framework Akka 2.5 a jazyk Java.
 * branch [`master`](https://github.com/novotnyr/akka-wordfrequencies-2018/tree/master) obsahuje ukážku death watch stratégie pre sledovanie workerov
 * branch [`message-tracking`](https://github.com/novotnyr/akka-wordfrequencies-2018/tree/message-count-tracking) obsahuje ukážku stratégie ukončenia aktorového systému s počítaním prijatých správ
 
+# Akka 2.4 - Untyped Actors a Java 8 (2017)
+
 ### Starší kód pre Akka 2.4/Java a `UntypedActor`
 Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wordfrequencies) obsahuje príklad založený na `UntypedActor` a staršom netypovanom API pre Akku 2.4 a staršiu a jazyk Java.
 
@@ -55,6 +81,6 @@ Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wo
 *	branch [`message-tracking`](https://github.com/novotnyr/akka-wordfrequencies/tree/message-tracking) pre ukážku s počítaním správ
 *	tag [`brownfield`](https://github.com/novotnyr/akka-wordfrequencies/tree/brownfield) — iniciálny kód pre cvičenie
 
-## Články
+# Články
 
 *	[Akka a vzdialené volanie aktorov pre otáčanie reťazcov](http://ics.upjs.sk/~novotnyr/blog/1568/akka-a-vzdialene-volanie-aktorov-pre-otacanie-retazcov)
