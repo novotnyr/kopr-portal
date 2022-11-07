@@ -43,15 +43,19 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 - [Video 1 / 2 (1h 30m)](https://web.microsoftstream.com/video/ed515cc4-209c-4393-8937-38689e19dc81). Úvod do aktorového modelu. Implementácia aktorov. Komunikácia medzi aktormi. Ask pattern. Rozdeľovanie roboty medzi aktorov. Message Adapter pre dodržanie typov správ. 
 - [Video 2 / 2 (1h 20m)](https://web.microsoftstream.com/video/1799f42f-942d-42ac-90a8-488bae2a758a). Komunikácia od replík ku koordinátorovi. Failover: zlyhávanie aktorov a supervízia. Spawnovanie viacerých aktorov pre škálovanie. Logovanie a debugging.
 
+## Kód
+
+- [Celý ukážkový projekt vrátane histórie komitov](https://github.com/novotnyr/akka-wordfreq-typed-2020/commits/main) pre Akka Typed 2.6, Java 8, OOP prístup. Obsahuje podporu pre logovanie a konfiguráciu. (*október 2020*)
+
+
+
+
 ### Distribuovaná Akka a Akka Cluster
 
 - [Video (1h 40m)](https://web.microsoftstream.com/video/4f7bf229-3710-4186-82f1-c6db93da5e15). Distribuovaná Akka v sieti. Výstavba Akka clustera. Komunikácia aktovo v distribuovanom prostredí. Odhaľovanie aktorov cez Receptionist.
 
 ## Kód
 
-- [GitHub repo `novotnyr/akka-wordfreq-typed-demo`](https://github.com/novotnyr/akka-wordfreq-typed-demo) s ukážkami kódu podľa prvých dvoch videí.
-
-    Používa sa Akka 2.6 Typed, Java 8, OOP štýl 
 - [GitHub repo `novotnyr/akka-iot-demo`](https://github.com/novotnyr/akka-iot-demo) s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
 
 # Klasická Akka – Akka Classic/Untyped (2018)
