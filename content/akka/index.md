@@ -78,7 +78,7 @@ Implementovaný je pre framework Akka 2.5 a jazyk Java.
 # Akka 2.4 - Untyped Actors a Java 8 (2017)
 
 ### Starší kód pre Akka 2.4/Java a `UntypedActor`
-Repozitár [`novotnyr/akka-wordfrequencies`](https://github.com/novotnyr/akka-wordfrequencies) obsahuje príklad založený na `UntypedActor` a staršom netypovanom API pre Akku 2.4 a staršiu a jazyk Java.
+Repozitár [`novotnyr/akka-wordfrequencies-2017`](https://github.com/novotnyr/akka-wordfrequencies-2017/commits/master) obsahuje príklad založený na `UntypedActor` a staršom netypovanom API pre Akku 2.4 a staršiu a jazyk Java.
 
 *	branch `master` pre ukážku s deathwatch
 *	branch [`message-tracking`](https://github.com/novotnyr/akka-wordfrequencies/tree/message-tracking) pre ukážku s počítaním správ
