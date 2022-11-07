@@ -22,8 +22,7 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
   ). Úvod do aktorového modelu. Implementácia aktorov. Komunikácia medzi aktormi. Ask pattern. Rozdeľovanie roboty medzi aktorov. Message Adapter pre dodržanie typov správ. (*november 2022*)
 - [Video 2 / 2 (1h 30m)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EXsszRY3WnlKkL6a-fZrsGoBOpHZHAFF52AfLNxf9FGuWw?e=cMfTe9)
   Komunikácia od replík ku koordinátorovi. Failover: zlyhávanie aktorov a supervízia. Spawnovanie viacerých aktorov pre škálovanie. Logovanie a debugging. (*november 2022*)
-
-- [Zdrojové kódy k videám](https://github.com/novotnyr/akka-wordfreq-typed-2022-pre/tree/master) -- repozitár na GitHub.com (*november 2022*)
+- [Zdrojové kódy k videám](https://github.com/novotnyr/akka-wordfreq-typed-2022-pre/tree/master) — repozitár na GitHub.com (*november 2022*)
 
 ## Kód
 
