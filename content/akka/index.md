@@ -28,6 +28,16 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 
 - [Celý ukážkový projekt vrátane histórie komitov](https://github.com/novotnyr/akka-wordfrequencies-2022/commits/master) pre Akka Typed 2.6, Java 17, OOP prístup. Obsahuje podporu pre logovanie a konfiguráciu a implementáciu Poison Pill. (*november 2022*)
 
+### Distribuovaná Akka a Akka Cluster
+
+- [Video (2h)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EaHgukTDiFZMkIe2nol9AtIB-ywxfXaUAZ_J9EUt8FUs2A?e=krp3DT). Distribuovaná Akka v sieti. Výstavba Akka clustera. Komunikácia aktovo v distribuovanom prostredí. Odhaľovanie aktorov cez Receptionist.
+
+## Kód
+
+- [GitHub repo `novotnyr/akka-iot-2022`](https://github.com/novotnyr/akka-iot-2022`).
+Celý ukážkový projekt vrátane histórie komitov s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
+
+
 # Typed Akka a Java 8 (2020) 
 
 ## Prezentácia
@@ -46,8 +56,6 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 ## Kód
 
 - [Celý ukážkový projekt vrátane histórie komitov](https://github.com/novotnyr/akka-wordfreq-typed-2020/commits/main) pre Akka Typed 2.6, Java 8, OOP prístup. Obsahuje podporu pre logovanie a konfiguráciu. (*október 2020*)
-
-
 
 
 ### Distribuovaná Akka a Akka Cluster
