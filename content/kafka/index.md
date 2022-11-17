@@ -15,15 +15,17 @@ Prezentácia
 Video k prezentácií
 -------------------
 
-- [Video k prezentácii z roku 2020](https://web.microsoftstream.com/video/fd1682cf-a797-458c-a861-2461d5366668?list=studio), dostupné pre členov UPJŠ na MS Stream.
+- [Video k prezentácii z roku 2022](https://upjs.sharepoint.com/:v:/s/KOPR2022/EXtaKDlzkEtJmn8ABbcITGoBctcJnrJzFtLpuFZk_XOfuw?e=jqHNP7), dostupné pre členov UPJŠ na MS Stream. (_november 2022_)
 
 Tutoriál
 --------
 
-- [Tutoriál ku Kafke s komentárom zdrojových kódov](apache-kafka-tutorial.pdf) (PDF). Tutoriál využíva zdrojové kódy ukážkového projektu a stavia na videu.
+- [Tutoriál ku Kafke s komentárom zdrojových kódov](apache-kafka-tutorial.pdf) (PDF). Tutoriál využíva zdrojové kódy ukážkového projektu a stavia na videu. (_november 2022_)
 
 Zdrojové kódy
 -------------
 
-- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kafka-producer-consumer-demo) vrátane spúšťania Kafky cez Docker Compose
+- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kopr-kafka-2022) vrátane spúšťania Kafky cez Docker Compose.
+  
+  Hotové riešenie je na vetve `solution`.
 
