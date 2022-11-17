@@ -1,7 +1,7 @@
 +++
 title = "Kafka"
 weight = 40
-date = 2020-11-17
+date = 2022-11-17
 +++
 Apache Kafka je distribuovaná platforma pre streaming dát, ktorá sa dá použiť ako message broker medzi komponentami.
 
@@ -10,7 +10,7 @@ Apache Kafka je distribuovaná platforma pre streaming dát, ktorá sa dá použ
 Prezentácia
 -----------
 
-- Slajdy k [Apache Kafka ako message broker](kopr-kafka-2020.pdf)
+- Slajdy k [Apache Kafka ako message broker](kopr-kafka.pdf)
 
 Video k prezentácií
 -------------------
