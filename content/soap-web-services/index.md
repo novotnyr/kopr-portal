@@ -16,7 +16,7 @@ Základný prehľad
 Katalóg verejných služieb v SOAP
 ================================
 
-[Katalóg ukážkových verejných služieb v SOAP](https://documenter.getpostman.com/view/8854915/Szf26WHn#33a2b225-11a6-48d3-a695-fb0989cc4971) (sept. 2023)
+[Katalóg ukážkových verejných služieb v SOAP](https://documenter.getpostman.com/view/8854915/Szf26WHn#33a2b225-11a6-48d3-a695-fb0989cc4971) (*sept. 2023*)
 
 - [Informácie o štátoch](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso)
 - [Overovanie ISBN](http://webservices.daehosting.com/services/isbnservice.wso)
