@@ -13,11 +13,19 @@ Základný prehľad
 *	[Slajdy k SOAP Web Services](kopr-soap-web-services.pdf) (*október 2022*)
 *  Pre pokročilých autorov: [SOAP: Štýly a kódovania: Document/Literal, RPC/Encoded a iné](kopr-soap-styles-encodings.pdf) (*okt. 2022*). Ukážky štýlov a kódovaní pre implementátorov (*okt. 2022*).
 
+Katalóg verejných služieb v SOAP
+================================
+
+[Katalóg ukážkových verejných služieb v SOAP](https://documenter.getpostman.com/view/8854915/Szf26WHn#33a2b225-11a6-48d3-a695-fb0989cc4971) (sept. 2023)
+
+- [Informácie o štátoch](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso)
+- [Overovanie ISBN](http://webservices.daehosting.com/services/isbnservice.wso)
+- [Prevod teploty medzi stupňami Fahrenheita a Celzia](https://www.w3schools.com/xml/tempconvert.asmx?WSDL)
 
 SOAP v súčasnej Jave
 ====================
 
-* [Od kódu k WSDL v Jave 17](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-9-a-novsej/). Automatické generovanie WSDL. Generovanie zdrojákov SOAP klienta cez Jakarta XML Web Services (JAX-WS 4.0), Eclipse Metro a mavenovský plugin Metro JAX-WS (*okt. 2022*)
+* [Od kódu k WSDL v Jave 17](https://novotnyr.github.io/scrolls/podpora-webovych-sluzieb-v-java-11-a-novsej/). Automatické generovanie WSDL. Generovanie zdrojákov SOAP klienta cez Jakarta XML Web Services (JAX-WS 4.0), Eclipse Metro a mavenovský plugin Metro JAX-WS (*sept. 2023*)
 * [OD WSDL k webovej službe v Jave 17](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-metro-pre-java-17/). Tutoriál ku generovaniu zdrojových kódov servera a jeho implementácie pre Javu 17, s použitím Jakarta XML Web Services (JAX-WS 4.0) a s Maven pluginom z projektu Eclipse Metro 4.0. (*okt. 2022*)
 
 
