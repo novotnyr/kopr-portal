@@ -13,6 +13,35 @@ Slajdy
 ------
 - **slajdy** k [message brokeru RabbitMQ](rabbitmq.pdf) (*november 2022*)
 
+Rok 2023
+--------
+
+### Obsah
+
+- RabbitMQ ako príklad brokera
+- Koncepty: exchange, queue, binding
+- Doručovanie správ cez distribúciu práce a broadcast
+- Pokročilé routovanie správ
+- Posielanie štruktúrovaných správ
+- Failover: ošetrovanie zlyhania
+
+### Videá
+
+- **video 1/2** [RabbitMQ](https://upjs.sharepoint.com/:v:/s/KOPR202324/ESrPXenE1jJPpmaO5JYTMwQBSj463zobGtYV9HeMJVE10w?e=9BISMu), cca od 25:00
+- **video 2/2** [RabbitMQ](https://upjs.sharepoint.com/:v:/s/KOPR202324/EToRWDgdb59Fgh-OmFy-SA4BTGAXH5FhRKh_XH82Vlrq2w?e=Vw0vSP)
+
+
+
+### Zdrojové kódy
+
+[Projekty pre konzumenta i producenta](https://github.com/novotnyr/kopr-rabbitmq-cars-2023), repozitár `novotnyr/kopr-rabbitmq-cars-2023` na GitHub.com. 
+
+- Demonštrácia producenta i konzumenta
+- Platforma:
+  - Spring Boot / Spring AMQP Starter
+  - Kotlin 1.8 na platforme Java 17
+  - buildovanie a závislosti cez Gradle
+
 Rok 2022
 --------
 
