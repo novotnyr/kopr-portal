@@ -34,7 +34,7 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 
 ## Kód
 
-- [GitHub repo `novotnyr/akka-iot-2022`](https://github.com/novotnyr/akka-iot-2022`).
+- [GitHub repo `novotnyr/akka-iot-2022`](https://github.com/novotnyr/akka-iot-2022).
 Celý ukážkový projekt vrátane histórie komitov s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
 
 
