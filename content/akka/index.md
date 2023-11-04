@@ -30,13 +30,20 @@ Videá demonštrujú úvod k aktorovému modelu a Akka Typed.
 
 ### Distribuovaná Akka a Akka Cluster
 
-- [Video (2h)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EaHgukTDiFZMkIe2nol9AtIB-ywxfXaUAZ_J9EUt8FUs2A?e=krp3DT). Distribuovaná Akka v sieti. Výstavba Akka clustera. Komunikácia aktovo v distribuovanom prostredí. Odhaľovanie aktorov cez Receptionist.
+### Distribuovaní aktori v Akka clusteri na príklade delenia roboty
 
-## Kód
+Aktori bežiaci na samostatných uzloch. Registrácia aktorov cez `Receptionist`. Serializácia správ pomocou Java serializácie. Spúšťanie aktorového systému v rolách. Ukážka routera typu _group_, ktorý autodetekuje aktorov rovnakého druhu cez recepčného.
 
-- [GitHub repo `novotnyr/akka-iot-2022`](https://github.com/novotnyr/akka-iot-2022).
+- [GitHub repo `novotnyr/akka-cluster-router-group`](https://github.com/novotnyr/akka-cluster-router-group)
+Celý ukážkový projekt vrátane histórie komitov.
+
+#### Distribuovaná Akka a Akka Cluster
+
+Distribuovaná Akka v sieti. Výstavba Akka clustera. Komunikácia aktorov v distribuovanom prostredí. Odhaľovanie aktorov cez Receptionist.
+
+- [Video (2h)](https://upjs.sharepoint.com/:v:/s/KOPR2022/EaHgukTDiFZMkIe2nol9AtIB-ywxfXaUAZ_J9EUt8FUs2A?e=krp3DT) 
+- kód [GitHub repo `novotnyr/akka-iot-2022`](https://github.com/novotnyr/akka-iot-2022).
 Celý ukážkový projekt vrátane histórie komitov s ukážkami distribuovanej aplikácie bežiacej v rámci Akka Clustera.
-
 
 # Typed Akka a Java 8 (2020) 
 
