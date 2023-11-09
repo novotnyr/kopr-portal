@@ -10,7 +10,7 @@ Apache Kafka je distribuovaná platforma pre streaming dát, ktorá sa dá použ
 Prezentácia
 -----------
 
-- Slajdy k [Apache Kafka ako message broker](kafka.pdf)
+- Slajdy k [Apache Kafka ako message broker](kafka.pdf) (_november 2023_)
 
 Video k prezentácií
 -------------------
