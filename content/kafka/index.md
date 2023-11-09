@@ -20,7 +20,7 @@ Video k prezentácií
 Tutoriál
 --------
 
-- [Tutoriál ku Kafke s komentárom zdrojových kódov](apache-kafka-tutorial.pdf) (PDF). Tutoriál využíva zdrojové kódy ukážkového projektu a stavia na videu. (_november 2022_)
+- [Tutoriál ku Kafke s komentárom zdrojových kódov](apache-kafka-tutorial-2022.pdf) (PDF). Tutoriál využíva zdrojové kódy ukážkového projektu a stavia na videu. (_november 2022_)
 
 Zdrojové kódy
 -------------
