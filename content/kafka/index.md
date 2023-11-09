@@ -1,7 +1,7 @@
 +++
 title = "Kafka"
 weight = 40
-date = 2022-11-17
+date = 2023-11-09
 +++
 Apache Kafka je distribuovaná platforma pre streaming dát, ktorá sa dá použiť ako message broker medzi komponentami.
 
