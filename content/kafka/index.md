@@ -25,7 +25,15 @@ Tutoriál
 Zdrojové kódy
 -------------
 
-- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kopr-kafka-2022) vrátane spúšťania Kafky cez Docker Compose.
+- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kafka-workshop-2023) vrátane spúšťania Kafky cez Docker Compose.
+  - Kotlin 1.8, 
+  - Java 17, 
+  - Kafka/KRaft, 
+  - záznamy vo formáte JSON
+- Zdrojové kódy ku [konzumentovi i producentovi](https://github.com/novotnyr/kopr-kafka-2022) vrátane spúšťania Kafky cez Docker Compose. 
+  - Java 17, 
+  - Kafka/Zookeeper, 
+  - záznamy ako rýdzi text
   
-  Hotové riešenie je na vetve `solution`.
-
+    Hotové riešenie je na vetve `solution`.
+  
