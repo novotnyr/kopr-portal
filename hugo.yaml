@@ -1,0 +1,76 @@
+baseURL: "https://example.com/"
+title: "Architektúry a protokoly distribuovaných systémov"
+theme: hextra
+
+enableRobotsTXT: true
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: sk
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - identifier: overview
+      name: Prehľad
+      pageRef: /docs
+      weight: 1
+
+params:
+  description: Architektúry a protokoly distribuovaných systémov — SOAP, REST, Akka, Kafka a RabbitMQ
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "2. January 2006"
+
+  search:
+    enable: false
+
+  editURL:
+    enable: false
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+  comments:
+    enable: false

@@ -1,2 +1,6 @@
-public
+resources/
 .idea/
+*.iml
+.hugo_build.lock
+themes/
+public/
