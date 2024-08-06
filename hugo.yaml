@@ -24,7 +24,7 @@ menu:
   main:
     - identifier: overview
       name: Prehľad
-      pageRef: /docs
+      pageRef: topics/
       weight: 1
 
 params:
