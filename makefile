@@ -9,7 +9,7 @@ build:
 build-public:
 	hugo --baseURL "https://ics.upjs.sk/~novotnyr/home/skola/konkurentne-programovanie/portal/"
 
-public: build-public
+public: clean build-public
 	rsync -aP public/ novotnyr@ics.upjs.sk:/home/novotnyr/public_html/home/skola/konkurentne-programovanie/portal
 
 clean:
