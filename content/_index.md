@@ -28,6 +28,7 @@ layout: hextra-home
     subtitle="SOAP Web Services založené na klient-server architektúre pomocou správ reprezentovaných typovanými XML dokumentami."
     link="topics/soap-web-services/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="images/soap.png"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -36,6 +37,7 @@ layout: hextra-home
     subtitle="Serverovské API založené na filozofii Representational State Transfer, kde manipulujeme entity reprezentované vo formáte JSON."
     link="topics/rest/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    image="images/rest.png" 
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -44,16 +46,19 @@ layout: hextra-home
     subtitle="Aktorový model, čo stiera rozdiely medzi distribuovanými a paralelnými systémami implementovaný v technológii Akka na jazykoch Java alebo Scala."
     link="topics/akka/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="images/akka.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
+  
   {{< hextra/feature-card
-  title="Message Brokers"
-  subtitle="Všeobecné informácie k message brokerom, princípy a filozofia."
-  link="topics/message-brokers/"
-  class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-  imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
-  style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
+    title="Message Brokers"
+    subtitle="Všeobecné informácie k message brokerom, princípy a filozofia."
+    link="topics/message-brokers/"
+    image="images/message-brokers.png"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -61,6 +66,7 @@ layout: hextra-home
   subtitle="Message broker podľa filozofie „smart pipes“ s integráciou pre mnohé jazyky a priamou podporou pre typické situácie v distribuovaných službách a microservicoch."
   link="topics/rabbitmq/"
   class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+  image="images/rabbitmq.png"
   imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
   style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -69,6 +75,7 @@ layout: hextra-home
   title="Apache Kafka"
   subtitle="Distribuovaná platforma pre streaming dát, ktorá sa dá použiť ako message broker medzi komponentami."
   link="topics/kafka/"
+  image="images/kafka.png"
   class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
   imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
   style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
@@ -79,6 +86,7 @@ layout: hextra-home
   subtitle="Remote Method Invocation je mechanizmus na vzdialené volanie metód pomocou architektúry klient-server v Jave."
   link="topics/rmi/"
   class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+  image="images/rmi.png"
   imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
   style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -88,6 +96,7 @@ layout: hextra-home
   subtitle="Asynchrónne programovanie v Javascripte pomocou callbackov, promises a `async`-`await`."
   link="topics/promises-async-await/"
   class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+  image="images/async-js.png"
   imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
   style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
