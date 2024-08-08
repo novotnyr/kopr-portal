@@ -5,13 +5,13 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Architektúry a protokoly&nbsp;<br class="sm:hx-block hx-hidden" />distribuovaných systémov
+  Konkurentne&nbsp;<br class="sm:hx-block hx-hidden" />či distribuovane
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Bežné protokoly a frameworky pre komunikáciu v distribuovaných systémoch.&nbsp;<br class="sm:hx-block hx-hidden" />
+  Bežné protokoly a frameworky pre komunikáciu v konkurentných či distribuovaných systémoch.&nbsp;<br class="sm:hx-block hx-hidden" />
   Vyučuje Róbert Novotný na kurze UINF/KOPR na UPJŠ.
 {{< /hextra/hero-subtitle >}}
 </div>
